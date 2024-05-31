@@ -1,8 +1,8 @@
 # Sheyam Portfolio
 
 ## PROJECTS 
-[Time Series Modeling](#Time-Series-Modeling) </br>
-[Recommender System](#Recommender-System) </br>
+ - [Time Series Modeling](#Time-Series-Modeling)
+ - [Recommender System](#Recommender-System) 
 
 ### [Time Series Modeling](https://github.com/sbitar2024/SheyamPortfolio.GitHub.io/tree/main/Projects/Time%20Series%20Modeling "Time Series Modeling") 
 #### Objective: 
@@ -16,7 +16,7 @@
 - ![image](https://github.com/sbitar2024/SheyamPortfolio.GitHub.io/assets/171313362/b4a8eafa-73c9-45d3-9fca-731924adce45)
 
 
-### [Recommender System](https://github.com/sbitar2024/SheyamPortfolio.GitHub.io/tree/main/Projects/Recommender%20System"Recommender System") 
+### [Recommender System](https://github.com/sbitar2024/SheyamPortfolio.GitHub.io/tree/main/Projects/Recommender%20System "Recommender System") 
 #### Objective: 
 
 - A recommendation system built using collaborative filtering and content-based filtering techniques. The system suggests products or items to users based on their preferences and behavior.
