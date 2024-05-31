@@ -2,7 +2,7 @@
 
 ## PROJECTS 
 [Time Series Modeling](#Time-Series-Modeling) </br>
-[Recommender System](#Recommender-System]) </br>
+[Recommender System](#Recommender-System) </br>
 ### Time Series Modeling 
 #### Objective: 
 
