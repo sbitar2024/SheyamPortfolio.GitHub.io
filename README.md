@@ -3,7 +3,8 @@
 ## PROJECTS 
 [Time Series Modeling](#Time-Series-Modeling) </br>
 [Recommender System](#Recommender-System) </br>
-### Time Series Modeling 
+
+### [Time Series Modeling](https://github.com/sbitar2024/SheyamPortfolio.GitHub.io/tree/main/Projects/Time%20Series%20Modeling "Time Series Modeling") 
 #### Objective: 
 
 - Analysing sales data in the US to then use modeling/predictive analysis showing YOY/MOM performance 
