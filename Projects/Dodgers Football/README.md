@@ -5,7 +5,9 @@
 
 ## Execution: 
 
-- using python pandas, sklearn,  numpy and matplotlib I was able to predict attendance at a game based on variables like weather, and merchandize being handed out 
+- using python pandas, sklearn,  numpy and matplotlib I was able to predict attendance at a game based on variables like weather, and merchandize being handed out
+
+
 ![image](https://github.com/sbitar2024/SheyamPortfolio.GitHub.io/assets/171313362/e4790e63-de44-43e3-be62-22bd00e56460)
 
 ![image](https://github.com/sbitar2024/SheyamPortfolio.GitHub.io/assets/171313362/9d424860-b94f-4fe9-8448-9083663f8bc9)
