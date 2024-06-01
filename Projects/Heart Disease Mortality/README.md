@@ -1,4 +1,4 @@
-# Recommender System 
+# Heart Disease Mortality
 ## Objective: 
 
 - This project aims to investigate heart disease mortality data among US adults, identifying geographic and demographic correlations to help inform effective public health strategies. 
